@@ -1,4 +1,4 @@
-# CR Guide line
+# Code Review Guideline
 
 ## Content Table
 
@@ -9,19 +9,19 @@
 
 ### CR Yourself
 
-![You played yourself](4a4.gif)
+![You played yourself](/imgs/4a4.gif)
 
 Before calling for CR, CR yourself, you will save time and effort finding the problems yourself.
 
 ### Don't make it personal
 
-![Drama](drama.gif)
+![Drama](/imgs/drama.gif)
 
 Don't make it personal, make a constrictive CR, explain your comments, don't refer to personal traits, don't judge, keep it professional and always remember, mistakes happen every day, the process is there to support you.
 
 ### Don't own code - Don't blame
 
-![Blame](blame.gif)
+![Blame](/imgs/blame.gif)
 
 Don't blame others and don't take ownership on your code (don't use "mine", "not mine", "yours"...). We learn, we improve and we all good at what we do.
 
